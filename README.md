@@ -55,8 +55,8 @@ to redistribute any leftover food to nearby NGOs.
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/lprisha007-eng/food-waste-predictor.git
-cd food-waste-predictor
+git clone https://github.com/lprisha007-eng/Food_Waste_Predictor.git
+cd Food_Waste_Predictor
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -91,5 +91,5 @@ The dataset is **simulated** for demonstration. For real use, replace
 - Multi-canteen support with user login
 
 ## 👩‍💻 Author
-**YOUR NAME**
+**Prisha**
 Capstone Project: Artificial Intelligence | Lenovo LEAP
